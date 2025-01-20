@@ -6,7 +6,7 @@
         <h4 class="title">✈ 記住永久地址</h4>
 ✈ 游戏资源z最新地址</h4>
         <ul>
-          <li><a href="http://www.galgamev.com" target="_blank">GalGame集散地www.galgamev.com</a></li>
+          <li><a href="http://www.llllsion.com" target="_blank">GalGame集散地www.llllsion.com</a></li>
           <li><a href="http://www.iisions.com" target="_blank">精品电商选品课程www.iisions.com</a></li>
           <li><a href="http://www.galgameb.com" target="_blank">DY 无人直播www.galgameb.com</a></li>
           <li><a href="http://www.acgsss.org" target="_blank">KS 推广小程序教程www.acgsss.org</a></li>
